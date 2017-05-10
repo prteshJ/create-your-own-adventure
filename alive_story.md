@@ -1,1 +1,1 @@
-Story comes to life, secret is hidden in Hogwarts directory.
+Story comes to life, secret is hidden in Secret directory.
